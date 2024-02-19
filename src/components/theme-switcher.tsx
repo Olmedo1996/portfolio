@@ -44,9 +44,33 @@ export const ThemeSwitcher = () => {
                     isActive={theme === 'dark' || theme === 'light' || theme === 'system'}
                     position={theme === 'dark' ? 'left' : 'right'}
                 >
-                    <CloudImage className='w-4 h-4 absolute left-11  top-3 dark:left-1 dark:top-2 dark:opacity-30 ' cloud={3} />
-                    <CloudImage className='w-4 h-4 absolute left-5  top-4 dark:left-5 dark:top-4 dark:opacity-70 ' cloud={2} />
-                    <CloudImage className='w-4 h-4 absolute left-7 top-0 dark:left-7 dark:top-0 dark:opacity-60 ' />
+                    <motion.div
+                        className=''
+                        animate={{
+                            x: [0, 10, 10, 0, -10, -10, 0]
+                        }}
+                        transition={{ ease: 'linear', duration: 30, repeat: Infinity }}
+                    >
+                        <CloudImage className='w-4 h-4 absolute left-11  top-2.5 dark:left-1 dark:top-2 dark:opacity-30 ' cloud={3} />
+                    </motion.div>
+                    <motion.div
+                        className=''
+                        animate={{
+                            x: [0, 7, 15, 0]
+                        }}
+                        transition={{ ease: 'linear', duration: 15, repeat: Infinity }}
+                    >
+                        <CloudImage className='w-4 h-4 absolute left-5  top-4 dark:left-5 dark:top-4 dark:opacity-70 ' cloud={2} />
+                    </motion.div>
+                    <motion.div
+                        className=''
+                        animate={{
+                            x: [0, 5, 5, 0, -5, -5, 0]
+                        }}
+                        transition={{ ease: 'linear', duration: 50, repeat: Infinity }}
+                    >
+                        <CloudImage className='w-4 h-4 absolute left-7 top-0 dark:left-7 dark:top-0 dark:opacity-60 ' />
+                    </motion.div>
                 </Fade>
             </>
         );

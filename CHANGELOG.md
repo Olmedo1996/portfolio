@@ -1,3 +1,7 @@
+# V1.5.1:
+
+[style]: se agregan animaciones a las nubes que aparecen en el switch del modo oscuro
+
 # V1.4.1:
 
 [style]: se agrega una animación a las nubes en el switch al cambiar al modo oscuro y viceversa

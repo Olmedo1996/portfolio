@@ -47,12 +47,17 @@ export default async function Home() {
                         <TechnologyIcons />
                     </CardFooter>
                 </Card>
-                <section className='h-[1000px] p-2'>
+                <section className='h-[1000px] p-2 flex flex-row'>
                     <div className='flex justify-center items-center rounded-2xl w-52 h-52 mx-auto mt-10 p-[4px] bg-gradient-to-br from-yellow-300 via-red-500 to-fuchsia-900'>
-                        <Card className='flex-shrink-0 w-full h-full'>dasda</Card>
+                        <Card className='flex-shrink-0 w-full h-full'>HOLA MUNDO</Card>
+                    </div>
+                    <div className='flex justify-center items-center rounded-2xl w-52 h-52 mx-auto mt-10 p-[4px] bg-gradient-to-br from-yellow-300 via-red-500 to-fuchsia-900'>
+                        <Card className='flex-shrink-0 w-full h-full'>PRUEBA</Card>
+                    </div>
+                    <div className='flex justify-center items-center rounded-2xl w-52 h-52 mx-auto mt-10 p-[4px] bg-gradient-to-br from-yellow-300 via-red-500 to-fuchsia-900'>
+                        <Card className='flex-shrink-0 w-full h-full'>ASDAS</Card>
                     </div>
                 </section>
-                
             </main>
             <figure id='background'></figure>
         </>
