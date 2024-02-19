@@ -1,10 +1,14 @@
+# V1.4.0:
+
+[style]: se agrega una animación a las nubes en el switch al cambiar al modo oscuro y viceversa
+
 # V1.3.0:
 
-[style] se agregan mejoras en el switch para cambiar el tema del sistema
+[style]: se agregan mejoras en el switch para cambiar el tema del sistema
 
 # V1.2.0:
 
-[feat] se agregan iconos y cambios en la portada del portfolio
+[feat]: se agregan iconos y cambios en la portada del portfolio
 
 # V1.1.0:
 
