@@ -27,7 +27,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <ThemeProvider attribute='class' defaultTheme='system' enableSystem disableTransitionOnChange>
                     <div className='relative flex min-h-screen flex-col' >
                         <SiteHeader/>
-                        <div className='container py-1 sm:px-6 lg:px-8'>{children}</div>
+                        <div className='container py-1'>{children}</div>
                     </div>
                     <TailwindIndicator />
                 </ThemeProvider>

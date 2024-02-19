@@ -1,3 +1,7 @@
+# V1.3.0:
+
+[style] se agregan mejoras en el switch para cambiar el tema del sistema
+
 # V1.2.0:
 
 [feat] se agregan iconos y cambios en la portada del portfolio

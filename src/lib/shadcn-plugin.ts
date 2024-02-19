@@ -71,7 +71,7 @@ export const shadcnPlugin = plugin(
     theme: {
       container: {
         center: true,
-        padding: "2rem",
+        padding: "1rem",
         screens: {
           "2xl": "824px",
         },
@@ -142,6 +142,17 @@ export const shadcnPlugin = plugin(
           "accordion-down": "accordion-down 0.2s ease-out",
           "accordion-up": "accordion-up 0.2s ease-out",
           "rotate-center": "rotate-center 0.6s ease-in-out both",
+        },
+        boxShadow: {
+          'inner-moon': 'inset -0.3em 0em 0.1em 0em #cbd5e1',
+          'outside-moon': '0em 0em 0.2em 0em rgba(255,255,255,1)',
+          'outside-sun': '0em 0em 0.2em 0em #fde047',
+          'inner-box': 'inset 0 0 0.1em #3f3f46'
+        },
+        backgroundImage: {
+          'night-sky': "linear-gradient(270deg, rgba(14,49,76,1) 15%, rgba(4,19,38,1) 100%)",
+          'day-sky': "linear-gradient(270deg, rgba(14,49,76,1) 15%, rgba(4,19,38,1) 100%)",
+          'sun-sky': "bg-gradient-to-l from-amber-600 to-yellow-300",
         },
       },
     },

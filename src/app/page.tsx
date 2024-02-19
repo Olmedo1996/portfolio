@@ -6,27 +6,32 @@ import { TechnologyIcons } from '@/components/technology-icons';
 import SocialMedia from '@/components/social-media';
 
 export default async function Home() {
-
-//     const staticData = await fetch(`https://api.github.com/users/Olmedo1996`, { cache: 'force-cache' })
-// console.log(staticData)
     return (
         <>
-            <main className='mt-5 flex gap-3 flex-col'>
+            <main className='flex gap-3 flex-col'>
                 <Card>
                     <CardHeader className='flex flex-col lg:flex-row items-center justify-between'>
                         <div className='flex flex-col lg:flex-row items-start lg:items-center'>
-                            <Avatar className='w-32 h-32 lg:w-44 lg:h-44 mx-auto lg:mx-0 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2 mb-4 lg:mb-0 cursor-pointer'>
-                                <AvatarImage src={`https://2.gravatar.com/avatar/1cca61a7aa7164d020228b1a5c212f368eb3e0cee611a2276b7b96f230323edd?size=128`} />
-                                <AvatarFallback>DO</AvatarFallback>
-                            </Avatar>
-                            <div className="lg:ml-8 text-center lg:text-left">
-                                <CardTitle>Diego Olmedo</CardTitle>
+                            <div className='flex rounded-full w-44 h-44 mx-auto bg-gradient-to-br p-[4px]  from-yellow-300 via-red-500 to-fuchsia-900'>
+                                <div className='flex flex-col justify-between w-full h-full bg-background rounded-full p-[2px]'>
+                                    <Avatar className='flex-shrink-0 w-full h-full'>
+                                        <AvatarImage
+                                            src={`https://2.gravatar.com/avatar/1cca61a7aa7164d020228b1a5c212f368eb3e0cee611a2276b7b96f230323edd?size=128`}
+                                        />
+                                        <AvatarFallback> DIEGO </AvatarFallback>
+                                    </Avatar>
+                                </div>
+                            </div>
+                            <div className='lg:ml-8 text-center lg:text-left'>
+                                <CardTitle className='mb-3 mt-3 lg:mt-0'>Diego Olmedo</CardTitle>
                                 <CardDescription>
-                                    <span>Ingeniero de Software</span> <span className="hidden lg:inline"> | </span>
+                                    <span>Ingeniero de Software</span> <span className='hidden lg:inline'> | </span>
                                     <span>Desarrollador Web Full Stack. </span>
-                                    <span><br />5 años de experiencia.</span>
+                                    <span>
+                                        <br />5 años de experiencia.
+                                    </span>
                                 </CardDescription>
-                                <SocialMedia className='mt-4'/>
+                                <SocialMedia className='mt-4 flex items-center justify-center lg:justify-start' />
                             </div>
                         </div>
                     </CardHeader>
@@ -39,11 +44,15 @@ export default async function Home() {
                         </p>
                     </CardContent>
                     <CardFooter>
-                        <TechnologyIcons/>
-                       {/*  React.js | Next.js | Laravel | PHP | JavaScript | TypeScript | CSS | HTML | TailwindCSS */}
+                        <TechnologyIcons />
                     </CardFooter>
                 </Card>
-                <section className='h-[1000px] p-2'></section>
+                <section className='h-[1000px] p-2'>
+                    <div className='flex justify-center items-center rounded-2xl w-52 h-52 mx-auto mt-10 p-[4px] bg-gradient-to-br from-yellow-300 via-red-500 to-fuchsia-900'>
+                        <Card className='flex-shrink-0 w-full h-full'>dasda</Card>
+                    </div>
+                </section>
+                
             </main>
             <figure id='background'></figure>
         </>
