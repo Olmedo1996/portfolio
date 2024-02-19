@@ -1,6 +1,7 @@
-# V1.4.0:
+# V1.4.1:
 
 [style]: se agrega una animación a las nubes en el switch al cambiar al modo oscuro y viceversa
+[fix]: se corrige problemas con la animación del switch
 
 # V1.3.0:
 

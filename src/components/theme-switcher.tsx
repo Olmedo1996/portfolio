@@ -41,7 +41,7 @@ export const ThemeSwitcher = () => {
             <>
                 <Fade
                     className='w-full h-full top-0 left-0 absolute z-20'
-                    isActive={theme === 'dark' || theme === 'light'}
+                    isActive={theme === 'dark' || theme === 'light' || theme === 'system'}
                     position={theme === 'dark' ? 'left' : 'right'}
                 >
                     <CloudImage className='w-4 h-4 absolute left-11  top-3 dark:left-1 dark:top-2 dark:opacity-30 ' cloud={3} />
