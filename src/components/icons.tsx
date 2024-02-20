@@ -229,6 +229,1363 @@ export const NextjsIcon = (props: IconProps) => (
     </svg>
 );
 
+export const InstagramIcon = (props: IconProps) => (
+    <svg
+        xmlns='http://www.w3.org/2000/svg'
+        xmlnsXlink='http://www.w3.org/1999/xlink'
+        width={752.224}
+        height={752.219}
+        viewBox='0 0 564.168 564.164'
+        {...props}
+    >
+        <defs>
+            <clipPath id='b'>
+                <path d='M1046 389h565v566h-565zm0 0' />
+            </clipPath>
+            <clipPath id='c'>
+                <path d='M1189.523 391.96c-33.55 1.528-51.777 7.11-63.898 11.84-16.082 6.22-27.531 13.7-39.57 25.74-12.024 12.07-19.485 23.522-25.739 39.585-4.695 12.156-10.312 30.348-11.84 63.898-1.624 36.301-1.996 47.168-1.996 139.051 0 91.883.336 102.766 2.016 139.035 1.523 33.551 7.11 51.774 11.836 63.899 6.223 16.062 13.684 27.515 25.738 39.554 12.055 12.04 23.508 19.485 39.57 25.735 12.126 4.73 30.348 10.312 63.9 11.84 36.269 1.676 47.167 1.996 139.019 1.996 91.882 0 102.78-.336 139.046-1.996 33.551-1.528 51.778-7.11 63.903-11.84 16.062-6.25 27.531-13.695 39.566-25.735 12.04-12.039 19.485-23.492 25.738-39.554 4.696-12.125 10.313-30.348 11.84-63.899 1.66-36.3 1.996-47.203 1.996-139.05 0-91.883-.336-102.75-1.996-139.051-1.527-33.551-7.109-51.778-11.84-63.899-6.253-16.062-13.68-27.535-25.738-39.57-12.055-12.039-23.504-19.52-39.566-25.738-12.16-4.696-30.352-10.313-63.903-11.84-36.3-1.625-47.164-1.992-139.046-1.992-91.852 0-102.75.336-139.036 1.992' />
+            </clipPath>
+            <clipPath id='e'>
+                <path d='M1046.48 389.969h564.168v564.164h-564.167zm0 0' />
+            </clipPath>
+            <clipPath id='f'>
+                <path d='M1189.523 391.96c-33.55 1.528-51.777 7.11-63.898 11.84-16.082 6.22-27.531 13.7-39.57 25.74-12.024 12.07-19.485 23.522-25.739 39.585-4.695 12.156-10.312 30.348-11.84 63.898-1.624 36.301-1.996 47.168-1.996 139.051 0 91.883.336 102.766 2.016 139.035 1.523 33.551 7.11 51.774 11.836 63.899 6.223 16.062 13.684 27.515 25.738 39.554 12.055 12.04 23.508 19.485 39.57 25.735 12.126 4.73 30.348 10.312 63.9 11.84 36.269 1.676 47.167 1.996 139.019 1.996 91.882 0 102.78-.336 139.046-1.996 33.551-1.528 51.778-7.11 63.903-11.84 16.062-6.25 27.531-13.695 39.566-25.735 12.04-12.039 19.485-23.492 25.738-39.554 4.696-12.125 10.313-30.348 11.84-63.899 1.66-36.3 1.996-47.203 1.996-139.05 0-91.883-.336-102.75-1.996-139.051-1.527-33.551-7.109-51.778-11.84-63.899-6.253-16.062-13.68-27.535-25.738-39.57-12.055-12.039-23.504-19.52-39.566-25.738-12.16-4.696-30.352-10.313-63.903-11.84-36.3-1.625-47.164-1.992-139.046-1.992-91.852 0-102.75.336-139.036 1.992' />
+            </clipPath>
+            <radialGradient
+                id='d'
+                cx={0}
+                cy={0}
+                r={1}
+                fx={0}
+                fy={0}
+                gradientTransform='matrix(716.27911 0 0 -716.27911 1082.995 941.772)'
+                gradientUnits='userSpaceOnUse'
+            >
+                <stop
+                    offset={0}
+                    style={{
+                        stopColor: '#fa8f21',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.063}
+                    style={{
+                        stopColor: '#fa8f21',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.09}
+                    style={{
+                        stopColor: '#fa8f21',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.094}
+                    style={{
+                        stopColor: '#fa8e22',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.098}
+                    style={{
+                        stopColor: '#fa8e22',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.102}
+                    style={{
+                        stopColor: '#f98d23',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.105}
+                    style={{
+                        stopColor: '#f98d23',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.109}
+                    style={{
+                        stopColor: '#f98c24',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.113}
+                    style={{
+                        stopColor: '#f98b24',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.117}
+                    style={{
+                        stopColor: '#f98b25',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.121}
+                    style={{
+                        stopColor: '#f88a25',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.125}
+                    style={{
+                        stopColor: '#f88a26',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.129}
+                    style={{
+                        stopColor: '#f88927',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.133}
+                    style={{
+                        stopColor: '#f88927',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.137}
+                    style={{
+                        stopColor: '#f88828',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.141}
+                    style={{
+                        stopColor: '#f78828',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.145}
+                    style={{
+                        stopColor: '#f78729',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.148}
+                    style={{
+                        stopColor: '#f78629',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.152}
+                    style={{
+                        stopColor: '#f7862a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.156}
+                    style={{
+                        stopColor: '#f7852a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.16}
+                    style={{
+                        stopColor: '#f6852b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.164}
+                    style={{
+                        stopColor: '#f6842b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.168}
+                    style={{
+                        stopColor: '#f6842c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.172}
+                    style={{
+                        stopColor: '#f6832c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.176}
+                    style={{
+                        stopColor: '#f6832d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.18}
+                    style={{
+                        stopColor: '#f5822d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.184}
+                    style={{
+                        stopColor: '#f5812e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.188}
+                    style={{
+                        stopColor: '#f5812e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.191}
+                    style={{
+                        stopColor: '#f5802f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.195}
+                    style={{
+                        stopColor: '#f5802f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.199}
+                    style={{
+                        stopColor: '#f57f30',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.203}
+                    style={{
+                        stopColor: '#f47f31',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.207}
+                    style={{
+                        stopColor: '#f47e31',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.211}
+                    style={{
+                        stopColor: '#f47e32',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.215}
+                    style={{
+                        stopColor: '#f47d32',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.219}
+                    style={{
+                        stopColor: '#f47c33',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.223}
+                    style={{
+                        stopColor: '#f37c33',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.227}
+                    style={{
+                        stopColor: '#f37b34',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.23}
+                    style={{
+                        stopColor: '#f37b34',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.234}
+                    style={{
+                        stopColor: '#f37a35',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.238}
+                    style={{
+                        stopColor: '#f37a35',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.242}
+                    style={{
+                        stopColor: '#f27936',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.246}
+                    style={{
+                        stopColor: '#f27936',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.25}
+                    style={{
+                        stopColor: '#f27837',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.254}
+                    style={{
+                        stopColor: '#f27737',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.258}
+                    style={{
+                        stopColor: '#f27738',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.262}
+                    style={{
+                        stopColor: '#f17638',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.266}
+                    style={{
+                        stopColor: '#f17639',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.27}
+                    style={{
+                        stopColor: '#f17539',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.273}
+                    style={{
+                        stopColor: '#f1753a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.277}
+                    style={{
+                        stopColor: '#f1743b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.281}
+                    style={{
+                        stopColor: '#f0743b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.285}
+                    style={{
+                        stopColor: '#f0733c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.289}
+                    style={{
+                        stopColor: '#f0723c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.293}
+                    style={{
+                        stopColor: '#f0723d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.297}
+                    style={{
+                        stopColor: '#f0713d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.301}
+                    style={{
+                        stopColor: '#f0713e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.305}
+                    style={{
+                        stopColor: '#ef703e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.309}
+                    style={{
+                        stopColor: '#ef703f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.313}
+                    style={{
+                        stopColor: '#ef6f3f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.316}
+                    style={{
+                        stopColor: '#ef6f40',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.32}
+                    style={{
+                        stopColor: '#ef6e40',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.324}
+                    style={{
+                        stopColor: '#ee6d41',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.328}
+                    style={{
+                        stopColor: '#ee6d41',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.332}
+                    style={{
+                        stopColor: '#ee6c42',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.336}
+                    style={{
+                        stopColor: '#ee6c42',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.34}
+                    style={{
+                        stopColor: '#ee6b43',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.344}
+                    style={{
+                        stopColor: '#ed6b43',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.348}
+                    style={{
+                        stopColor: '#ed6a44',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.352}
+                    style={{
+                        stopColor: '#ed6a45',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.355}
+                    style={{
+                        stopColor: '#ed6945',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.359}
+                    style={{
+                        stopColor: '#ed6846',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.363}
+                    style={{
+                        stopColor: '#ec6846',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.367}
+                    style={{
+                        stopColor: '#ec6747',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.371}
+                    style={{
+                        stopColor: '#ec6747',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.375}
+                    style={{
+                        stopColor: '#ec6648',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.379}
+                    style={{
+                        stopColor: '#ec6648',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.383}
+                    style={{
+                        stopColor: '#eb6549',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.387}
+                    style={{
+                        stopColor: '#eb6549',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.391}
+                    style={{
+                        stopColor: '#eb644a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.395}
+                    style={{
+                        stopColor: '#eb634a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.398}
+                    style={{
+                        stopColor: '#eb634b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.402}
+                    style={{
+                        stopColor: '#eb624b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.406}
+                    style={{
+                        stopColor: '#ea624c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.41}
+                    style={{
+                        stopColor: '#ea614c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.414}
+                    style={{
+                        stopColor: '#ea614d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.418}
+                    style={{
+                        stopColor: '#ea604d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.422}
+                    style={{
+                        stopColor: '#ea604e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.426}
+                    style={{
+                        stopColor: '#e95f4f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.43}
+                    style={{
+                        stopColor: '#e95e4f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.434}
+                    style={{
+                        stopColor: '#e95e50',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.438}
+                    style={{
+                        stopColor: '#e95d50',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.441}
+                    style={{
+                        stopColor: '#e95d51',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.445}
+                    style={{
+                        stopColor: '#e85c51',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.449}
+                    style={{
+                        stopColor: '#e85c52',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.453}
+                    style={{
+                        stopColor: '#e85b52',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.457}
+                    style={{
+                        stopColor: '#e85b53',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.461}
+                    style={{
+                        stopColor: '#e85a53',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.465}
+                    style={{
+                        stopColor: '#e75954',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.469}
+                    style={{
+                        stopColor: '#e75954',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.473}
+                    style={{
+                        stopColor: '#e75855',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.477}
+                    style={{
+                        stopColor: '#e75855',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.48}
+                    style={{
+                        stopColor: '#e75756',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.484}
+                    style={{
+                        stopColor: '#e65756',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.488}
+                    style={{
+                        stopColor: '#e65657',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.492}
+                    style={{
+                        stopColor: '#e65657',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.496}
+                    style={{
+                        stopColor: '#e65558',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.5}
+                    style={{
+                        stopColor: '#e65459',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.504}
+                    style={{
+                        stopColor: '#e65459',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.508}
+                    style={{
+                        stopColor: '#e5535a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.512}
+                    style={{
+                        stopColor: '#e5535a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.516}
+                    style={{
+                        stopColor: '#e5525b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.52}
+                    style={{
+                        stopColor: '#e5525b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.523}
+                    style={{
+                        stopColor: '#e5515c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.527}
+                    style={{
+                        stopColor: '#e4515c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.531}
+                    style={{
+                        stopColor: '#e4505d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.535}
+                    style={{
+                        stopColor: '#e44f5d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.539}
+                    style={{
+                        stopColor: '#e44f5e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.543}
+                    style={{
+                        stopColor: '#e44e5e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.547}
+                    style={{
+                        stopColor: '#e34e5f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.551}
+                    style={{
+                        stopColor: '#e34d5f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.555}
+                    style={{
+                        stopColor: '#e34d60',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.559}
+                    style={{
+                        stopColor: '#e34c60',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.563}
+                    style={{
+                        stopColor: '#e34c61',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.566}
+                    style={{
+                        stopColor: '#e24b61',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.57}
+                    style={{
+                        stopColor: '#e24b62',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.574}
+                    style={{
+                        stopColor: '#e24a63',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.578}
+                    style={{
+                        stopColor: '#e24963',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.582}
+                    style={{
+                        stopColor: '#e24964',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.586}
+                    style={{
+                        stopColor: '#e14864',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.59}
+                    style={{
+                        stopColor: '#e14865',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.594}
+                    style={{
+                        stopColor: '#e14765',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.598}
+                    style={{
+                        stopColor: '#e14766',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.602}
+                    style={{
+                        stopColor: '#e14666',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.605}
+                    style={{
+                        stopColor: '#e14667',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.609}
+                    style={{
+                        stopColor: '#e04567',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.613}
+                    style={{
+                        stopColor: '#e04468',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.617}
+                    style={{
+                        stopColor: '#e04468',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.621}
+                    style={{
+                        stopColor: '#e04369',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.625}
+                    style={{
+                        stopColor: '#e04369',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.629}
+                    style={{
+                        stopColor: '#df426a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.633}
+                    style={{
+                        stopColor: '#df426a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.637}
+                    style={{
+                        stopColor: '#df416b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.641}
+                    style={{
+                        stopColor: '#df416b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.645}
+                    style={{
+                        stopColor: '#df406c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.648}
+                    style={{
+                        stopColor: '#de3f6d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.652}
+                    style={{
+                        stopColor: '#de3f6d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.656}
+                    style={{
+                        stopColor: '#de3e6e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.66}
+                    style={{
+                        stopColor: '#de3e6e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.664}
+                    style={{
+                        stopColor: '#de3d6f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.668}
+                    style={{
+                        stopColor: '#dd3d6f',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.672}
+                    style={{
+                        stopColor: '#dd3c70',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.676}
+                    style={{
+                        stopColor: '#dd3c70',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.68}
+                    style={{
+                        stopColor: '#dd3b71',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.684}
+                    style={{
+                        stopColor: '#dd3a71',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.688}
+                    style={{
+                        stopColor: '#dc3a72',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.691}
+                    style={{
+                        stopColor: '#dc3972',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.695}
+                    style={{
+                        stopColor: '#dc3973',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.699}
+                    style={{
+                        stopColor: '#dc3873',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.703}
+                    style={{
+                        stopColor: '#dc3874',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.707}
+                    style={{
+                        stopColor: '#db3774',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.711}
+                    style={{
+                        stopColor: '#db3775',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.715}
+                    style={{
+                        stopColor: '#db3675',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.719}
+                    style={{
+                        stopColor: '#db3576',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.723}
+                    style={{
+                        stopColor: '#db3577',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.727}
+                    style={{
+                        stopColor: '#db3477',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.73}
+                    style={{
+                        stopColor: '#da3478',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.734}
+                    style={{
+                        stopColor: '#da3378',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.738}
+                    style={{
+                        stopColor: '#da3379',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.742}
+                    style={{
+                        stopColor: '#da3279',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.746}
+                    style={{
+                        stopColor: '#da327a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.75}
+                    style={{
+                        stopColor: '#d9317a',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.754}
+                    style={{
+                        stopColor: '#d9307b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.758}
+                    style={{
+                        stopColor: '#d9307b',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.762}
+                    style={{
+                        stopColor: '#d92f7c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.766}
+                    style={{
+                        stopColor: '#d92f7c',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.77}
+                    style={{
+                        stopColor: '#d82e7d',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={0.773}
+                    style={{
+                        stopColor: '#d82d7e',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={1}
+                    style={{
+                        stopColor: '#d82d7e',
+                        stopOpacity: 1
+                    }}
+                />
+            </radialGradient>
+            <radialGradient
+                id='g'
+                cx={0}
+                cy={0}
+                r={1}
+                fx={0}
+                fy={0}
+                gradientTransform='matrix(630.33246 0 0 -630.33246 1437.26 923.657)'
+                gradientUnits='userSpaceOnUse'
+            >
+                <stop
+                    offset={0}
+                    style={{
+                        stopColor: '#8c3aaa',
+                        stopOpacity: 1
+                    }}
+                />
+                <stop
+                    offset={1}
+                    style={{
+                        stopColor: '#8c3aaa',
+                        stopOpacity: 1
+                    }}
+                />
+            </radialGradient>
+            <filter id='a' width={1} height={1} x={0} y={0} filterUnits='objectBoundingBox'>
+                <feColorMatrix in='SourceGraphic' values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0' />
+            </filter>
+            <mask id='h'>
+                <g filter='url(#a)'>
+                    <use xlinkHref='#image9' width='100%' height='100%' transform='matrix(.00159 0 0 -.00159 -.62 .848)' />
+                </g>
+            </mask>
+        </defs>
+        <g clipPath='url(#b)' transform='translate(-1046.48 -389.969)'>
+            <g clipPath='url(#c)'>
+                <path
+                    d='M1046.48 954.133V389.969h564.168v564.164zm0 0'
+                    style={{
+                        fill: 'url(#d)',
+                        fillRule: 'nonzero',
+                        stroke: 'none'
+                    }}
+                />
+            </g>
+        </g>
+        <g clipPath='url(#e)' transform='translate(-.48 -.969)'>
+            <g clipPath='url(#f)'>
+                <path
+                    d='M0 0h1920v1344.1H0z'
+                    mask='url(#h)'
+                    style={{
+                        fill: 'url(#g)',
+                        stroke: 'none'
+                    }}
+                />
+            </g>
+        </g>
+        <path
+            d='M196.742 75.93c-22.312 1.02-37.558 4.554-50.87 9.738-13.782 5.348-25.466 12.527-37.13 24.172-11.664 11.648-18.824 23.332-24.176 37.129-5.18 13.324-8.718 28.562-9.734 50.87-1.031 22.352-1.27 29.493-1.27 86.411 0 56.918.239 64.063 1.27 86.41 1.016 22.313 4.555 37.55 9.734 50.875 5.352 13.781 12.512 25.485 24.176 37.125 11.664 11.645 23.328 18.813 37.13 24.176 13.339 5.184 28.558 8.719 50.87 9.734 22.36 1.016 29.492 1.27 86.41 1.27 56.918 0 64.063-.235 86.41-1.27 22.313-1.015 37.547-4.55 50.872-9.734 13.78-5.363 25.464-12.527 37.128-24.176 11.665-11.644 18.81-23.344 24.172-37.125 5.184-13.324 8.739-28.562 9.739-50.875 1.015-22.363 1.25-29.492 1.25-86.41 0-56.918-.235-64.059-1.25-86.406-1.016-22.317-4.555-37.559-9.739-50.875-5.363-13.781-12.527-25.461-24.171-37.13-11.649-11.663-23.348-18.823-37.11-24.171-13.344-5.184-28.578-8.738-50.875-9.738-22.351-1.02-29.492-1.27-86.402-1.27s-64.067.238-86.426 1.27m1.727 378.925c-20.434-.933-31.54-4.335-38.922-7.21-9.785-3.81-16.766-8.348-24.106-15.68-7.344-7.328-11.886-14.305-15.68-24.09-2.874-7.375-6.28-18.488-7.206-38.922-1.016-22.09-1.22-28.73-1.22-84.7 0-55.968.22-62.585 1.22-84.698.93-20.434 4.359-31.52 7.207-38.922 3.812-9.785 8.347-16.766 15.68-24.106 7.327-7.34 14.304-11.886 24.105-15.68 7.379-2.874 18.488-6.28 38.922-7.206 22.093-1.02 28.73-1.223 84.675-1.223 55.946 0 62.586.219 84.7 1.227 20.433.93 31.523 4.355 38.921 7.207 9.786 3.793 16.766 8.347 24.11 15.68 7.34 7.327 11.867 14.32 15.676 24.105 2.875 7.379 6.28 18.488 7.207 38.922 1.015 22.109 1.218 28.73 1.218 84.699 0 55.972-.203 62.59-1.218 84.699-.93 20.434-4.348 31.543-7.207 38.922-3.809 9.785-8.348 16.766-15.676 24.09-7.332 7.324-14.324 11.867-24.11 15.68-7.378 2.874-18.488 6.28-38.921 7.206-22.094 1.02-28.73 1.223-84.7 1.223-55.972 0-62.59-.203-84.675-1.223m171.41-282.492c-.008 13.89 11.25 25.157 25.136 25.16 13.895.004 25.157-11.25 25.165-25.14.004-13.89-11.254-25.156-25.141-25.16h-.012c-13.883.008-25.14 11.257-25.148 25.14M175.53 284.25c0 59.441 48.18 107.625 107.621 107.625 59.442 0 107.621-48.184 107.621-107.625 0-59.438-48.18-107.621-107.62-107.621-59.442 0-107.622 48.18-107.622 107.621m37.77 0c0-38.582 31.27-69.867 69.851-69.867 38.582 0 69.868 31.285 69.868 69.867 0 38.586-31.286 69.871-69.868 69.871-38.582 0-69.851-31.285-69.851-69.871'
+            style={{
+                fill: '#fff',
+                fillOpacity: 1,
+                fillRule: 'nonzero',
+                stroke: 'none'
+            }}
+            transform='translate(-.48 -.969)'
+        />
+    </svg>
+);
+
 export const CloudImage = (props: { className?: string; cloud?: number }) => {
     if (props.cloud === 3) {
         return (
@@ -326,7 +1683,7 @@ export const CloudImage = (props: { className?: string; cloud?: number }) => {
     );
 };
 
-export const StarsImage = (props: { className?: string}) => (
+export const StarsImage = (props: { className?: string }) => (
     <svg {...props} viewBox='0 0 207 92' fill='none' xmlns='http://www.w3.org/2000/svg'>
         <circle cx='40.5002' cy='8.5' r='1.5' fill='#C7C7C7' />
         <circle cx='107.5' cy='10.5' r='1.5' fill='#C7C7C7' />

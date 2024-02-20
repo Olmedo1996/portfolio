@@ -28,7 +28,7 @@ export default async function Home() {
                                     <span>Ingeniero de Software</span> <span className='hidden lg:inline'> | </span>
                                     <span>Desarrollador Web Full Stack. </span>
                                     <span>
-                                        <br />5 años de experiencia.
+                                        <br />3 años de experiencia.
                                     </span>
                                 </CardDescription>
                                 <SocialMedia className='mt-4 flex items-center justify-center lg:justify-start' />

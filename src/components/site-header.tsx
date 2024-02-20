@@ -7,7 +7,7 @@ export function SiteHeader() {
             <div className='container flex h-16'>
                 <div className='flex flex-1 items-center justify-end space-x-4'>
                     <nav className='max-w-screen-xl flex flex-wrap items-center justify-between mx-auto w-full'>
-
+                        <div></div>
                         <ThemeSwitcher />
                     </nav>
                 </div>

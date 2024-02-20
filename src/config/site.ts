@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-    name: 'Sala Situacional',
+    name: 'Diego Olmedo',
     description:
-        'Plataforma dedicada a monitorear, analizar y proporcionar información actualizada sobre la propagación y control de enfermedades endémicas, centrándonos inicialmente en el dengue.',
+        'Portafolio personal de Diego Olmedo. Desarrollador Web Full Stack. 3 años de experiencia.',
     mainNav: [
         {
             title: 'Datos',
