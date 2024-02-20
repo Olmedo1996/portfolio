@@ -1,7 +1,8 @@
-# V1.5.1:
+# V1.5.2:
 
 [style]: se agregan animaciones a las nubes que aparecen en el switch del modo oscuro
 [style]: se agregaron mejoras a los iconos de las redes sociales
+[fix]: cambia el link para la red social linkedin
 
 # V1.4.1:
 
